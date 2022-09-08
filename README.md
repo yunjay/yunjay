@@ -1,16 +1,19 @@
-### Hi there 👋
+# Yunjay Kim
+
+## :elephant: About Me
+SeoulTech CS Major 2018~
+RoK Army military service 2021~2022
+SeoulTech Computer Graphics & Imaging Lab undergrad research assistant 2022~
+
+## :horse: Interests
+Graphics APIs (Mostly but not limited to OpenGL at the moment)
+Physically Based Rendering 
+Any and all mathematics
+[Painting](markdowns/paintingsByYJ) 
+
+## :mailbox_with_mail: Contact Me
+yunjaysus@gmail.com
+[@yunjayk](https://www.instagram.com/yunjayk/)
 
 <!--
-**yunjay/yunjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
