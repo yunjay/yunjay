@@ -9,7 +9,7 @@
 - Graphics APIs (Mostly but not limited to OpenGL at the moment)  
 - Physically Based Rendering   
 - Any and all mathematics  
-- [Painting](markdowns/paintingsByYJ)   
+- [Painting](markdowns/paintingsByYJ.md)   
 
 ## :mailbox_with_mail: Contact Me
 yunjaysus@gmail.com  
