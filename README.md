@@ -12,8 +12,8 @@
 - [Painting](markdowns/paintingsByYJ.md)   
 
 ## :mailbox_with_mail: Contact Me
-yunjaysus@gmail.com  
-[@yunjayk](https://www.instagram.com/yunjayk/)  
+Email : yunjaysus@gmail.com  
+Instagram : [@yunjayk](https://www.instagram.com/yunjayk/)  
 
 <!--
 -->

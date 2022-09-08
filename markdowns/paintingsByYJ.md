@@ -1,32 +1,35 @@
-## Urn
-This urn is the first painting I did using oil paint.
-![](../images/)
+## Saemi   
+*In Progress*  
 
-## Hare (Imitation)
+## Morris
 ![](../images/)
+This is a painting of my nephew, Morris.  
 
-## Clownfish
+## First Birthday
 ![](../images/)
+Painting of my mother and myself, drawn from a photograph of my first birthday.  
+
+## Astronomer (Imitation)
+![](../images/)
+Originally by Vermeer.  
+
+## Hand holding sprayer
+![](../images/)
+Painting of my own hand holding a water sprayer. (My first self portrait if you will.)  
 
 ## Rooster
 ![](../images/)
-
-## Hand holding sprayer
-Painting of my own hand holding a water sprayer. (My first self portrait if you will.)
+  
+## Hare (Imitation)
 ![](../images/)
-
-## Astronomer (Imitation)
-Originally by Vermeer.
+  
+## Clownfish
 ![](../images/)
+Majestic wildlife in its natural habitat.  
 
-## First Birthday
-Painting of my mother an myself, drawn from a photograph of my first birthday.
+## Urn
 ![](../images/)
+This urn is the first painting I did using oil paint.  
 
-## Morris
-This is a painting of my nephew, Morris.
-![](../images/)
 
-## Saemi   
-*In Progress*
 
