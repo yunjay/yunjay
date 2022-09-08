@@ -2,7 +2,8 @@
 *In Progress*  
 
 ## Morris
-![](../images/)
+![](../images/morris.jpeg)  
+![](../images/morris_in_progress.jpeg)  
 This is a painting of my nephew, Morris.  
 
 ## First Birthday
