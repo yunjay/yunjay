@@ -36,9 +36,9 @@ Majestic wildlife in its natural habitat.
 Majestic wildlife in its natural habitat.  
 
 ## Urn
-<img src="images/urn.jpeg" width=60% height=60%>    
+<img src="../images/urn.jpeg" width=60% height=60%>    
 
-This urn is the first painting I've done using oil paint.  
+The first painting I've done using oil paint.  
 
 
 
