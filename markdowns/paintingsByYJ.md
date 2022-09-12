@@ -2,40 +2,43 @@
 *In Progress*  
 
 ## Morris
-<img src="../images/morris.jpeg" width=70% height=70%>
+<img src="../images/morris.jpeg" width=70% height=70%>  
 
-![](../images/morris.jpeg)  
 ![](../images/morris_in_progress.jpeg)  
 This is a painting of my nephew, Morris.  
 
 ## First Birthday
-![](../images/firstBirthday1.jpeg)
-![](../images/firstBirthday2.jpeg)
+<img src="images/firstBirthday1.jpeg" width=60% height=60%>  
+<img src="images/firstBirthday2.jpeg" width=60% height=60%>  
+<!--![](../images/firstBirthday2.jpeg)-->
 Painting of my mother and myself, drawn from a photograph of my first birthday.  
 
 ## Astronomer (Imitation)
-![](../images/astronomer.jpeg)
+![](../images/astronomer.jpeg)  
 Originally by Vermeer.  
 
 ## Hand holding sprayer
-![](../images/hand.jpeg)
-Painting of my own hand holding a water sprayer. (My first self portrait if you will.)  
+<img src="images/hand.jpeg" width=60% height=60%>  
+  
+Painting of my own hand holding a water sprayer. 
 
 ## Rooster
-![](../images/rooster.jpeg)
+<img src="images/rooster.jpeg" width=60% height=60%>    
 Majestic wildlife in its natural habitat. 
 
 ## Hare
-![](../images/hare1.jpeg)
-![](../images/hare2.jpeg)
+<img src="images/hare1.jpeg" width=60% height=60%>    
+<img src="images/hare2.jpeg" width=60% height=60%>    
 
 ## Clownfish
-![](../images/fish.jpeg) 
+<img src="images/fish.jpeg" width=60% height=60%>
+
 Majestic wildlife in its natural habitat.  
 
 ## Urn
-![](../images/urn1.jpeg)
-This urn is the first painting I did using oil paint.  
+<img src="images/urn.jpeg" width=60% height=60%>    
+
+This urn is the first painting I've done using oil paint.  
 
 
 
