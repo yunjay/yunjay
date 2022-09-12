@@ -2,6 +2,7 @@
 *In Progress*  
 
 ## Morris
+<img src="../images/morris.jpeg" width=70% height=70%>
 ![](../images/morris.jpeg)  
 ![](../images/morris_in_progress.jpeg)  
 This is a painting of my nephew, Morris.  
