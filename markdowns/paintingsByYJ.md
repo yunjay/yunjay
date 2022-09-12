@@ -1,11 +1,13 @@
+# Paintings by me
+<!-- 
 ## Lady with an Umbrella  
 *In Progress*  
-
+-->
 ## Morris
 <img src="../images/morris.jpeg" width=70% height=70%>  
 
 ![](../images/morris_in_progress.jpeg)  
-This is a painting of my nephew, Morris.  
+Painting of my nephew, Morris.  
 
 ## First Birthday
 <img src="../images/firstBirthday1.jpeg" width=60% height=60%>  
