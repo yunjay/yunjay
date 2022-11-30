@@ -6,9 +6,10 @@
 - SeoulTech Computer Graphics & Imaging Lab undergrad research assistant 2022~  
 
 ## :seedling: Interests
-- Graphics APIs (Mostly but not limited to OpenGL at the moment)  
+- Graphics APIs
+- Non Photorealistic Rendering
 - Physically Based Rendering   
-- Any and all mathematics  
+- Mathematics  
 - [Painting](markdowns/paintingsByYJ.md)   
 
 ## :mailbox_with_mail: Contact Me
