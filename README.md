@@ -13,7 +13,6 @@
 
 ## :mailbox_with_mail: Contact Me
 Email : yunjaysus@gmail.com  
-Instagram : [@yunjayk](https://www.instagram.com/yunjayk/)  
 
 <!--
 -->
