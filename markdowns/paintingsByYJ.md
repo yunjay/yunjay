@@ -29,7 +29,7 @@ Painting of my own hand holding a water sprayer.
 
 ## Hare
 <img src="../images/hare1.jpeg" width=60% height=60%>    
-<img src="../images/hare2.jpeg" width=60% height=60%>    
+<!--<img src="../images/hare2.jpeg" width=60% height=60%>  -->  
 
 ## Clownfish
 <img src="../images/fish.jpeg" width=60% height=60%>
