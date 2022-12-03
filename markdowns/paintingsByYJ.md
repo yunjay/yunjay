@@ -1,8 +1,9 @@
 # Paintings by me
-<!-- 
+
 ## Lady and an Umbrella  
-*In Progress*  
--->
+<img src="../images/umbrella2.jpg" width=80% height=80%>   
+<img src="../images/umbrella1.jpg" width=80% height=80%>   
+
 ## Morris
 <img src="../images/morris.jpeg" width=70% height=70%>  
 
