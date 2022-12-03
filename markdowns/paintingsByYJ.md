@@ -4,7 +4,7 @@
 <img src="../images/umbrella2.jpg" width=80% height=80%>   
 <img src="../images/umbrella1.jpg" width=80% height=80%>   
 
-## Morris
+## Morrie
 <img src="../images/morris.jpeg" width=70% height=70%>  
 
 ![](../images/morris_in_progress.jpeg)  
