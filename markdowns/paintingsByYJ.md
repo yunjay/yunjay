@@ -1,6 +1,6 @@
 # Paintings by me
 
-All paintings are Oil on Canvas.
+All paintings are oil on canvas.
 
 ## Lady and an Umbrella  
 <img src="../images/umbrella2.jpg" width=80% height=80%>   
