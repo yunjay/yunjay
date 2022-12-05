@@ -1,5 +1,7 @@
 # Paintings by me
 
+All paintings are Oil on Canvas.
+
 ## Lady and an Umbrella  
 <img src="../images/umbrella2.jpg" width=80% height=80%>   
 <img src="../images/umbrella1.jpg" width=80% height=80%>   
@@ -8,7 +10,7 @@
 <img src="../images/morris.jpeg" width=70% height=70%>  
 
 ![](../images/morris_in_progress.jpeg)  
-Painting of my nephew, Morris.  
+Painting of my nephew, Morrie.  
 
 ## First Birthday
 <!--<img src="../images/firstBirthday1.jpeg" width=60% height=60%>-->
