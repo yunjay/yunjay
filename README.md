@@ -7,8 +7,8 @@
 
 ## :seedling: Interests
 - Graphics APIs
-- Non Photorealistic Rendering
-- Physically Based Rendering   
+- Rendering
+- Physically Based Simulations  
 - Mathematics  
 - [Painting](markdowns/paintingsByYJ.md)   
 
