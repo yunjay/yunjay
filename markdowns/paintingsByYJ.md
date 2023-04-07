@@ -7,7 +7,9 @@ All paintings are oil on canvas.
 <!-----
 <img src="../images/umbrella1.jpg" width=80% height=80%>   
 ----->
+
 ## Morrie
+
 <img src="../images/morris.jpeg" width=70% height=70%>  
 
 ![](../images/morris_in_progress.jpeg)  
