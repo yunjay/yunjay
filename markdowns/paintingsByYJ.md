@@ -1,4 +1,4 @@
-# Paintings by me
+# Paintings by Me
 
 All paintings are oil on canvas.
 
@@ -27,7 +27,7 @@ Originally by Vermeer.
 ## Hand holding sprayer
 <img src="../images/hand.jpeg" width=60% height=60%>  
   
-Painting of my own hand holding a water sprayer. 
+Painting of my hand holding a water sprayer. 
 
 ## Rooster
 <img src="../images/rooster.jpeg" width=60% height=60%>    
