@@ -8,7 +8,7 @@
 ## :seedling: Interests
 - Graphics APIs
 - Rendering
-- Physically Based Simulations  
+- Realtime Simulations  
 - Mathematics  
 - [Painting](markdowns/paintingsByYJ.md)   
 
