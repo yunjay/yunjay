@@ -2,6 +2,10 @@
 
 All paintings are oil on canvas.
 
+## Tulip
+
+![Tulip](https://github.com/yunjay/yunjay/assets/38942504/d74fa43a-fea2-4304-aaa5-67ff3c6e9cd4)
+
 ## Lady and an Umbrella  
 <img src="../images/umbrella2.jpg" width=80% height=80%>   
 <!-----
