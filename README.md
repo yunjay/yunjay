@@ -9,8 +9,9 @@
 - SeoulTech Computer Graphics & Imaging Lab undergrad research student 2022 - 2023
 
 ## :seedling: Interests
-- Realtime Rendering
-- Realtime Simulations  
+- Real-time Rendering
+- Real-time Simulations
+- GPGPU  
 - Mathematics  
 - [Painting](markdowns/paintingsByYJ.md)   
 
