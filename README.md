@@ -1,4 +1,4 @@
-eeeeeeeeeeeeeee# Yunjay Kim
+# Yunjay Kim
 
 ## :elephant: About Me
 - Software Engineer at CLO Virtual Fashion 2023 - 
