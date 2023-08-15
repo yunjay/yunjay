@@ -1,7 +1,9 @@
 # Yunjay Kim
 
 ## :elephant: About Me
-- Software Engineer at CLO Virtual Fashion 2023 - 
+- Software Engineer at CLO Virtual Fashion 2023 -
+
+  
 - SeoulTech CS Major 2018 - 2023  
 - RoK Army military service 2021 - 2022  
 - SeoulTech Computer Graphics & Imaging Lab undergrad research student 2022 - 2023
