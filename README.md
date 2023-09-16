@@ -6,7 +6,7 @@
 ### Other Experience
 - SeoulTech CS Major 2018 - 2023  
 - RoK Army military service 2021 - 2022  
-- SeoulTech Computer Graphics & Imaging Lab undergrad research student 2022 - 2023
+- SeoulTech Computer Graphics & Imaging Lab undergrad research intern 2022 - 2023
 
 ## :seedling: Interests
 - Real-time Rendering
