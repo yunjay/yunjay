@@ -17,9 +17,10 @@
 
 ## :mailbox_with_mail: Contact Me
 Email : 
-nessie@clo3d.com
 
-yunjaysus@gmail.com
+Work - nessie@clo3d.com
+
+Personal - yunjaysus@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/yun-jay-kim-546500149/
 
