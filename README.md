@@ -14,11 +14,9 @@
 - [Painting](markdowns/paintingsByYJ.md)   
 
 ## Contact Me
-Email : 
+Work Email - nessie@clo3d.com
 
-Work - nessie@clo3d.com
-
-Personal - yunjaysus@gmail.com
+Personal Email - yunjaysus@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/yun-jay-kim-546500149/
 
