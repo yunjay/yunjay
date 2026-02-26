@@ -2,7 +2,11 @@
 
 ## About Me
 ### Work Experience
-- Software Engineer at CLO Virtual Fashion 2023 -
+- Software Engineer at CLO Virtual Fashion 2023 - Present
+
+## Interests
+- Real-time Rendering
+- [Painting](markdowns/paintingsByYJ.md)
 
 ## Contact Me
 Work Email - nessie@clo3d.com
